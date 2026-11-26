@@ -1,8 +1,16 @@
 INFORMASI REPOSITORI
-NAMA PROJECT: Latihan-JS-Website
-Bahasa Pemrograman:
+NAMA PROJECT: Latihan PHP Website
+
+Bahasa Pemrograman: 
+- PHP
 - HTML
 - CSS
 - JavaScript
+
 Repository GitHub:
-https://github.com/DionBK-creator/Latihan-JS-Website.git
+https://github.com/DionBK-creator/Latihan-PHP.git
+
+Nama Database: web_db_dion
+
+Deskripsi:
+Website pribadi profile yang menyediakan informasi skill pribadi dan formulir kontak yang terhubung dengan database MySQL
